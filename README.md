@@ -133,8 +133,3 @@ Role to deploy keepalived Daemonsets on Rancher Control Plane **and** custom Kub
 ## License
 
 GPLv3
-
-## Author Information
-
-* Sebastian Plattner
-* Philip Schmid
